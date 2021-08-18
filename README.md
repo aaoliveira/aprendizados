@@ -1,2 +1,2 @@
 # aprendizados
-Repositório com materias de estudos
+Repositório com conteúdos de estudos
